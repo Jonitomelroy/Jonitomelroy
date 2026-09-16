@@ -1,21 +1,137 @@
-<h1 align="center">Hi 👋, I'm Jonito Melroy D'silva</h1>
-<h3 align="center">I am correctly studying computer technique</h3>
+<div align="center">
 
-<!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonitomelroy" alt="jonitomelroy" /></a> </p>--->
+# Jonito Melroy D'silva
 
-- 📫 How to reach me **jonitomelroy28@gmail.com**
+### **Frontend or full-stack engineer**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://in.linkedin.com/in/jonito-d-silva-38629631b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonito d'silva" height="30" width="40" /></a>
-<a href="https://instagram.com/jonito_.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jonito_.18" height="30" width="40" /></a>
-</p>
+*Building useful things with PHP and shipping in public.*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+📍 **Based in Goa, India**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonitomelroy&show_icons=true&locale=en&layout=compact" alt="jonitomelroy" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonitomelroy&show_icons=true&locale=en" alt="jonitomelroy" /></p>
+| **2** <br/> Followers | **6** <br/> Repositories | **0** <br/> Stars | **5** <br/> Contributions |
+| :---: | :---: | :---: | :---: |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonitomelroy&;" alt="jonitomelroy" /></p>
+</div>
+
+---
+
+## Building in public
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+**Building useful things with PHP and shipping in public.**
+
+**Focus:** `PHP` · `HTML` · `CSS` · `Python`
+
+*Designed to make the work, momentum, and next conversation easy to find.*
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+*(Interactive / Visual Profile Preview)*
+
+</td>
+</tr>
+</table>
+
+---
+
+## What I'm shipping
+
+| **HIGHLIGHTS** | | |
+| :--- | :--- | :--- |
+| **PHP**<br/><sub>6 public repositories</sub> | **Goa-s-Fish-and-Fishing-techniques-**<br/><sub>Featured project</sub> | **Impact**<br/><sub>0 stars · 1 active days</sub> |
+
+---
+
+## Featured work
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="middle">
+<img src="https://via.placeholder.com/400x200/0f2b2c/ffffff?text=Featured+Project+Preview" alt="Featured Work" width="100%"/>
+</td>
+<td width="50%" valign="top">
+
+### [Goa-s-Fish-and-Fishing-techniques-](https://github.com/jonitomelroy/Goa-s-Fish-and-Fishing-techniques-)
+A project built and shared in public.
+
+`PHP` · ⭐ 0 stars · 🍴 0 forks
+
+[**View project →**](https://github.com/jonitomelroy/Goa-s-Fish-and-Fishing-techniques-)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Selected work
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### [Goa-s-Fish-and-Fishing-techniques-](https://github.com/jonitomelroy/Goa-s-Fish-and-Fishing-techniques-)
+A project built and shared in public.
+
+`PHP` · ⭐ 0
+
+</td>
+<td width="33%" valign="top">
+
+### [happy-birthday-counter](https://github.com/jonitomelroy/happy-birthday-counter)
+A project built and shared in public.
+
+`HTML` · ⭐ 0
+
+</td>
+<td width="33%" valign="top">
+
+### [happy-birthday](https://github.com/jonitomelroy/happy-birthday)
+A project built and shared in public.
+
+`HTML` · ⭐ 0
+
+</td>
+</tr>
+</table>
+
+---
+
+## Activity
+
+<div align="center">
+
+### **Contribution Activity**
+*5 contributions in the last year*
+
+</div>
+
+---
+
+<table width="100%">
+<tr>
+<td width="70%" valign="top">
+
+## Let's build something
+
+Open to thoughtful collaboration, ambitious products, and useful open-source work.
+
+</td>
+<td width="30%" align="center" valign="middle">
+
+[**GitHub**](https://github.com/jonitomelroy)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<br/>
+<sub>Jonito Melroy D'silva · live profile data</sub>
+</div>
