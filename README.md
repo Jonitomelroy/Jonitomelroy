@@ -1,5 +1,92 @@
 <div align="center">
 
+<img src="https://www.gitskins.com/api/section/hero?username=jonitomelroy&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176420211%3Fu%3D8c2e22062e10ef5edd822cd849d3096b19b9cf93%26v%3D4" alt="Jonito Melroy D'silva Hero Visual" width="100%" />
+
+# Jonito Melroy D'silva
+
+**Freelance developer or consultant**
+
+</div>
+
+---
+
+## The idea behind the work
+
+> Building useful things and learning in public.
+
+* 📍 Based in **Goa, India**
+* 👥 **2** followers · **3** following
+
+*Small, useful work over vague claims.*
+
+---
+
+## Selected work
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Jonitomelroy/Goa-s-Fish-and-Fishing-techniques-">Goa-s-Fish-and-Fishing-techniques-</a></b><br/>
+      <sub>A selected project from this GitHub profile.</sub><br/>
+      <code>PHP</code> · ⭐ 0
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Jonitomelroy/happy-birthday-counter">happy-birthday-counter</a></b><br/>
+      <sub>A selected project from this GitHub profile.</sub><br/>
+      <code>HTML</code> · ⭐ 0
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Jonitomelroy/happy-birthday">happy-birthday</a></b><br/>
+      <sub>A selected project from this GitHub profile.</sub><br/>
+      <code>HTML</code> · ⭐ 0
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Jonitomelroy/python">python</a></b><br/>
+      <sub>A selected project from this GitHub profile.</sub><br/>
+      <code>Python</code> · ⭐ 0
+    </td>
+  </tr>
+</table>
+
+---
+
+## Details worth noticing
+
+<div align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=jonitomelroy&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176420211%3Fu%3D8c2e22062e10ef5edd822cd849d3096b19b9cf93%26v%3D4" alt="Highlights Visual" width="100%" />
+</div>
+
+**Jonito Melroy D'silva** is shipping 6 public projects with 0 stars of proof.
+
+---
+
+## Creative toolkit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+---
+
+## Make something memorable
+
+<div align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=jonitomelroy&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176420211%3Fu%3D8c2e22062e10ef5edd822cd849d3096b19b9cf93%26v%3D4" alt="Social Visual" width="100%" />
+
+  <br/><br/>
+
+  [**GitHub Profile →**](https://github.com/jonitomelroy)
+
+  <br/>
+  <sub>Jonito Melroy D'silva · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
+</div><div align="center">
+
 # Jonito Melroy D'silva
 ### **Frontend or full-stack engineer**
 *Building useful things with PHP and shipping in public.*
